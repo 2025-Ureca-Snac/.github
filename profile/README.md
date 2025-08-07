@@ -90,34 +90,34 @@
 
 ![ezgif com-speed (1)](https://github.com/user-attachments/assets/b1f06775-84b7-4c9f-a637-68631ee6c57a)
 
-개발 서버를 실행할 때, 환경변수를 설정해주세요! (.env파일로 생성)
+# 기술 스택
 
-## 📚 Tech Stack
+## 프론트엔드
 
-협업 툴도 적어보기 (지라,피그마 등등)
+<img width="519" height="183" alt="Image" src="https://github.com/user-attachments/assets/ad05aaf0-2288-4dc1-827c-2e7a77ffc5ab" />
 
+## 백엔드
 
-### 💻 FE Development
+![BE](https://github.com/user-attachments/assets/21e6a9fb-7fe4-4bbb-9bcd-3ff51b621c40)
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,tailwind,react)](https://skillicons.dev)
+## 인프라
 
-### ⌛ Developed Period
-에자일 방법론 도입
+![Infra](https://github.com/user-attachments/assets/c2f28915-222a-4fef-91ad-4f4fa29275f5)
 
-#### 총기간 2025.6.30 ~ 2025.8.8 (39 days)
-## 📅 개발 기간
+## 인프라 아키텍쳐
 
-| 기간                | 주차          | 진행 내용              |
-|---------------------|--------------|------------------------|
-| 2025.6.30 ~ 2025.8.8 | 전체 (39일)   | 프로젝트 전체 기간      |
-| 2025.6.30 ~ 2025.7.6 | 1주차         |                        |
-| 2025.7.7 ~ 2025.7.13 | 2주차         |                        |
-| 2025.7.14 ~ 2025.7.20 | 3주차        |                        |
-| 2025.7.21 ~ 2025.7.27 | 4주차        |                        |
-| 2025.7.28 ~ 2025.8.4  | 5주차        |                        |
-| 2025.8.5 ~ 2025.8.7   | 6주차        |                        |
+![Image](https://github.com/user-attachments/assets/972b9bb2-0cf0-4ff8-960a-91d705505468)
 
 
+## Developed Period
+
+<img width="1253" height="613" alt="Image" src="https://github.com/user-attachments/assets/94ebc67f-30d4-4d77-beb5-b7d82e41642f" />
+
+<img width="1255" height="620" alt="Image" src="https://github.com/user-attachments/assets/8acab842-b04d-4ce3-9ed8-495358b992db" />
+
+## 에자일 방법론 도입
+
+<img width="1328" height="585" alt="Image" src="https://github.com/user-attachments/assets/7755db99-73f9-4e6a-98af-2e719b9330d3" />
 
 # 👩‍💻 팀원
 
